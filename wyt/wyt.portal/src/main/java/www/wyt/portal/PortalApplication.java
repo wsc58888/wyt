@@ -1,10 +1,6 @@
-package org.wyt.portal;
+package www.wyt.portal;
 
-/**
- * Hello world!
- *
- */
-public class App 
+public class PortalApplication 
 {
     public static void main( String[] args )
     {
